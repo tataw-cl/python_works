@@ -32,4 +32,4 @@ python Image_to_sketch.py
 
 ## Sample
 
-![My sketched picture](tct.jpg)
+![My sketched picture](sketch.png)
