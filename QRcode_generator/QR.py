@@ -29,6 +29,8 @@ button.pack()
 root.mainloop()
 
 #Alternative way without GUI
+
+
 #import qrcode
 # import image
 # QR=qrcode.QRCode(
